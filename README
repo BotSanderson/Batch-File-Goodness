@@ -1,0 +1,4 @@
+This file was made in spirit of me and my friend's boredom in the computer lab in school. It is also my first program in batch that is longer than 3 lines. 
+
+-1.1-
+In the new version, I changed the problem where the program closed when you entered anything in the field that was not exatly the same as the variables I defined. It no longer does that. It simply tells you incorrect password, or Invalid Program this time.
